@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-myhealthfinder",
+  "version": "0.1.0",
+  "description": "MyHealthfinder MCP — U.S. preventive-services & health-screening guidance",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "myhealthfinder"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-myhealthfinder"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
