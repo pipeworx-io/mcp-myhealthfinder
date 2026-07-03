@@ -2,7 +2,7 @@
 
 MyHealthfinder MCP — U.S. preventive-services & health-screening guidance
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1167+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1225+ live data sources.
 
 ## Tools
 
@@ -23,7 +23,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 1167+ data sources:
+Or connect to the full Pipeworx gateway for access to all 1225+ data sources:
 
 ```json
 {
