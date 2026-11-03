@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-myhealthfinder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MyHealthfinder MCP — U.S. preventive-services & health-screening guidance from ODPHP / health.gov (odphp.health.gov/myhealthfinder). This is the consumer-facing product built ON the USPSTF recommendations, so it answers 'what screenings/preventive services should a <age>-year-old <sex> get'…",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "myhealthfinder",
     "gatewaySlug": "myhealthfinder",
-    "sourceHash": "v1-b70c8a3168b7ddd5cee6b52cccfe7c360f5a2f726b25b9814899e313fd2e6b6e",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-f24abe57cede2108c65e12b9a29a9400a99cbf436eac93a4d034383b7e01d75d",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
